@@ -1,5 +1,5 @@
-const gulp = requiere ('gulp')
-const gulp = requiere ('gulp-sass')
+const gulp = require ('gulp')
+const sass = require ('gulp-sass')
 
 gulp.task('sass', function () {
 
